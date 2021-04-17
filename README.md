@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ilayda</h1>
-<!--<h3 align="center">A Software Developer from Istanbul/Turkey</h3>-->
+<h3 align="center">A Software Developer from Istanbul/Turkey</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ilaydasahinn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+- 🤓 I'm Computer Engineering student at Yildiz Technical University.
 - 🔭 I’m currently working on IOS Programming, Image Processing.
 - 🌱 I’m currently learning Kotlin and Android Programming.
 - 📫 How to reach me: https://www.linkedin.com/in/ilaydasahinn/
