@@ -3,9 +3,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ilaydasahinn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🤓 I'm Computer Engineering student at Yildiz Technical University.
-- 🔭 I’m currently working on IOS Programming, Image Processing.
-- 🌱 I’m currently learning Kotlin and Android Programming.
+- 🤓 I'm a senior Computer Engineering student at Yildiz Technical University.
+- 🔭 I’m currently working on IOS Programming, Android Programming and Image Processing.
 - 📫 How to reach me: https://www.linkedin.com/in/ilaydasahinn/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilaydasahinn&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" /></p>
