@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ilayda</h1>
-<h3 align="center">A Software Developer from Istanbul/Turkey</h3>
+<h3 align="center">An iOS Developer from Istanbul/Turkey</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ilaydasahinn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🤓 I'm a senior Computer Engineering student at Yildiz Technical University.
-- 🔭 I’m currently working on IOS Programming, Android Programming and Image Processing.
+- 🔭 I am currently working as an iOS Developer at Trendyol Group.
+- 🌱 I graduated from Yildiz Technical University Computer Engineering department in July 2021.
 - 📫 How to reach me: https://www.linkedin.com/in/ilaydasahinn/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilaydasahinn&show_icons=true&theme=radical&locale=en&layout=compact" alt="cengizcmataraci" /></p>
